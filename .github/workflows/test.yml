@@ -33,4 +33,4 @@ jobs:
         run: npm run test:html
 
       - name: Run linkinator
-        run: npm run test:linkinator
+        run: npm run linkinator
